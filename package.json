@@ -14,7 +14,7 @@
     "feed",
     "rss"
   ],
-  "author": "Latitudes Online",
+  "author": "PEP Ecom QA",
   "license": "MIT",
   "engines": {
     "node": ">=18.0.0"
