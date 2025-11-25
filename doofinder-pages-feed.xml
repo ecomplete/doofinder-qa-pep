@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>Latitudes Online Pages Feed</title>
+    <link>https://pep-ecom-qa.myshopify.com/pages</link>
+    <description>CMS pages for Doofinder</description>
+
+    <item>
+      <g:id>page_contact</g:id>
+      <title>Contact</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/contact</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Tue, 07 Oct 2025 06:58:21 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_baby</g:id>
+      <title>Baby</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/baby</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Fri, 03 Oct 2025 06:36:43 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_apply-for-a-loan</g:id>
+      <title>Apply-for-a-loan</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/apply-for-a-loan</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Fri, 03 Oct 2025 06:36:44 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_back-to-school-voucher-campaign</g:id>
+      <title>Back to School Voucher Campaign</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/back-to-school-voucher-campaign</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Fri, 03 Oct 2025 06:36:45 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_capfin-what-you-need-to-apply</g:id>
+      <title>Capfin what you need to apply</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/capfin-what-you-need-to-apply</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Fri, 03 Oct 2025 06:36:46 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_cellular</g:id>
+      <title>Cellular</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/cellular</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Fri, 03 Oct 2025 06:36:46 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_more-win-a-house-competition</g:id>
+      <title>+more Win A House Competition</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/more-win-a-house-competition</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Fri, 03 Oct 2025 06:36:47 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_competitions</g:id>
+      <title>competitions</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/competitions</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Fri, 03 Oct 2025 06:36:48 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_competitions-promotions</g:id>
+      <title>Competitions &amp; Promotions</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/competitions-promotions</link>
+      <description>Competitions &amp; Promotions</description>
+      <g:type>cms_page</g:type>
+      <pubDate>Fri, 03 Oct 2025 06:36:49 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_winners</g:id>
+      <title>Winners</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/winners</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Fri, 03 Oct 2025 06:36:49 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_corporate-social-investment</g:id>
+      <title>Corporate Social Investment</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/corporate-social-investment</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:27 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_wishlist</g:id>
+      <title>Wishlist</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/wishlist</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:27 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_women</g:id>
+      <title>Women</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/women</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:27 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_plusmore-deals</g:id>
+      <title>plusmore deals</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/plusmore-deals</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:27 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_plus-more-terms</g:id>
+      <title>Plus More Terms</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/plus-more-terms</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:27 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_plusmore-faqs</g:id>
+      <title>Plusmore FAQs</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/plusmore-faqs</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:27 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_samsung-win-a-voucher</g:id>
+      <title>Samsung Win A Voucher</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/samsung-win-a-voucher</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:28 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_success</g:id>
+      <title>Success</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/success</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:28 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_term-conditions</g:id>
+      <title>Term &amp; Conditions</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/term-conditions</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:28 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_what-is-1voucher</g:id>
+      <title>what is 1voucher</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/what-is-1voucher</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:29 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_tweens</g:id>
+      <title>Tweens</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/tweens</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:29 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_number-4-life</g:id>
+      <title>Number 4 Life</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/number-4-life</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:29 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_paxi</g:id>
+      <title>Paxi</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/paxi</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:29 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_pending</g:id>
+      <title>Pending</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/pending</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:30 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_pay-accounts</g:id>
+      <title>Pay Accounts</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/pay-accounts</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:30 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_pep-account</g:id>
+      <title>PEP Account</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/pep-account</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:30 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_pep-account-trolley-dash</g:id>
+      <title>Pep Account Trolley Dash</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/pep-account-trolley-dash</link>
+      <description>GAUTENG Bertha NaidooStephen NtuliLizwe MkaseMiriam Nhlapo</description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:30 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_pep-money</g:id>
+      <title>Pep Money</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/pep-money</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:30 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_pep-cares</g:id>
+      <title>PEP Cares</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/pep-cares</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:30 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_plus-more</g:id>
+      <title>Plus More</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/plus-more</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:30 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_international-money-transfers</g:id>
+      <title>International Money Transfers</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/international-money-transfers</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_kids</g:id>
+      <title>Kids</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/kids</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_lay-by-buddy</g:id>
+      <title>Lay By Buddy</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/lay-by-buddy</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_lay-by</g:id>
+      <title>Lay-by</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/lay-by</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_mens</g:id>
+      <title>Mens</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/mens</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:32 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_local-money-transfers</g:id>
+      <title>Local Money Transfers</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/local-money-transfers</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:32 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_mini-netball</g:id>
+      <title>Mini Netball</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/mini-netball</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:32 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_money</g:id>
+      <title>Money</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/money</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:32 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_money-transfers</g:id>
+      <title>Money Transfers</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/money-transfers</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:33 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_mothers-day-competition-2023</g:id>
+      <title>Mother&apos;s Day Competition 2023</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/mothers-day-competition-2023</link>
+      <description>Winners: Slungile Priscilla CeleAbigale SeakameLiezel HartzenbergPhindile BaloiPlaxcidiah MuzembeLee-Anne van NiekerkRazaan KempSharmini SahatuBron...</description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:33 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_corporate-social-investment-application-terms</g:id>
+      <title>Corporate Social Investment Application Terms</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/corporate-social-investment-application-terms</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:33 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_corporate-social-investment-application-form</g:id>
+      <title>Corporate Social Investment Application Form</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/corporate-social-investment-application-form</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:33 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_feelgood-fm</g:id>
+      <title>Feelgood FM</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/feelgood-fm</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:33 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_flash-tokens</g:id>
+      <title>Flash Tokens</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/flash-tokens</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:33 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_find-a-store</g:id>
+      <title>Find a Store</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/find-a-store</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:33 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_foneyam</g:id>
+      <title>FoneYam</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/foneyam</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:33 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_home</g:id>
+      <title>Home</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/home</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:34 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_school</g:id>
+      <title>School</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/school</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:34 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_pep-account-page</g:id>
+      <title>PEP Account Page</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/pep-account-page</link>
+      <description>welcome pep page</description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:34 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_maintenance-page</g:id>
+      <title>Maintenance Page</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/maintenance-page</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:35 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_order-successful</g:id>
+      <title>Order Successful</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/order-successful</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:35 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_pink-towels-2</g:id>
+      <title>Pink Towels 2</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/pink-towels-2</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:35 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_catalogues</g:id>
+      <title>catalogues</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/catalogues</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:36 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_view-catalogue</g:id>
+      <title>view-catalogue</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/view-catalogue</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:36 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_corporate-lay-by-buddy</g:id>
+      <title>Corporate Lay-by buddy</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/corporate-lay-by-buddy</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:36 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_delivery-faqs</g:id>
+      <title>Delivery FAQs</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/delivery-faqs</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:36 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_careers</g:id>
+      <title>careers</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/careers</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:36 GMT</pubDate>
+    </item>
+
+    <item>
+      <g:id>page_html-sitemap</g:id>
+      <title>HTML Sitemap</title>
+      <link>https://pep-ecom-qa.myshopify.com/pages/html-sitemap</link>
+      <description></description>
+      <g:type>cms_page</g:type>
+      <pubDate>Mon, 06 Oct 2025 05:37:36 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
